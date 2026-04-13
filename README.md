@@ -1,4 +1,4 @@
-# Speech Understanding PA2 — Code-Switched Lecture Pipeline
+# Speech Understanding PA2 - Code-Switched Lecture Pipeline
 **Student:** Aniket Srivastava | **Roll No:** M25DE1051 | **Subject:** CSL-7770  
 **Python version:** 3.10 | **PyTorch:** 2.1.0 | **Lecture Segment:** 20:00–30:00
 
@@ -28,7 +28,7 @@ This pipeline:
 
 ## Environment Requirements
 
-- **Python 3.10** (required — Coqui TTS does not support Python 3.12)
+- **Python 3.10** (required - Coqui TTS does not support Python 3.12)
 - CUDA GPU recommended (6 GB+ VRAM); all code falls back to CPU automatically
 - ffmpeg installed on system
 
